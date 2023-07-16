@@ -4,7 +4,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Development
 
-```
 In the project directory, you can run:
 
 ### `npm install`
@@ -32,14 +31,11 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-
 ## Troubleshooting with local development
 
-We've set up some code governance, from `prettier` for JS, `stylelint` for CSS and orchestrated by `lint-staged`, with `husky` for pre-commit hooks. This can introduce some one-time dependencies in the project.
+I've set up some code governance, from `prettier` for JS, `stylelint` for CSS and orchestrated by `lint-staged`, with `husky` for pre-commit hooks. This can introduce some one-time dependencies in the project.
 
 For example, `nvm` users will need to set up `~/.huskyrc` in their root folder, with the following:
-
-```
 
 # ~/.huskyrc
 
@@ -48,16 +44,8 @@ For example, `nvm` users will need to set up `~/.huskyrc` in their root folder, 
 export NVM_DIR="$HOME/.nvm"
 [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"
 
-```
-
 ## Troubleshooting with local testing setup
 
 Issue with node version please run below command
 
-```
-
 npm i -D --exact jest-watch-typeahead@0.6.5
-
-```
-
-```
