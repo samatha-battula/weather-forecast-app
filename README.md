@@ -37,7 +37,7 @@ I've set up some code governance, from `prettier` for JS, `stylelint` for CSS an
 
 For example, `nvm` users will need to set up `~/.huskyrc` in their root folder, with the following:
 
-## This loads nvm.sh and sets the correct PATH before running hook
+This loads nvm.sh and sets the correct PATH before running hook
 
 ~/.huskyrc
 
