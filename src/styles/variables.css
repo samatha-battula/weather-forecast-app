@@ -1,0 +1,31 @@
+:root {
+  --primary: #6ebec3;
+  --black: #313131;
+  --background: #f4f6fc;
+  --card: #eee;
+  --fontFamily: 'Roboto', sans-serif;
+  --fontSizeTiny: 1rem;
+  --fontSizeSmall: 1.2rem;
+  --fontSizeMedium: 1.4rem;
+  --fontSizeLarge: 1.6rem;
+  --fontSizeTitle: 2.0rem;
+  --headlineFontSizeLarge: 4.4rem;
+  --headlineFontSizeSmall: 3.2rem;
+  --headlineLineHeightLarge: 5.6rem;
+  --headlineLineHeightSmall: 3.2rem;
+  --subheadFontSizeLarge: 2.4rem;
+  --subheadFontSizeSmall: 1.6rem;
+  --subheadLineHeightLarge: 3.2rem;
+  --subheadLineHeightSmall: 2.4rem;
+  --lineHeightSmall: 1.6rem;
+  --lineHeightMedium: 2rem;
+  --lineHeightLarge: 2.4rem;
+  --lineHeightTitle: 2.0rem;
+  --fontWeightBlack: 800;
+  --fontWeightBold: 700;
+  --fontWeightSemiBold: 600;
+  --fontWeightMedium: 500;
+  --fontWeightRegular: 400;
+  --fontWeightLight: 300;
+  --fontWeightExtraLight: 200;
+}
